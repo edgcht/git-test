@@ -1,1 +1,2 @@
 var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
