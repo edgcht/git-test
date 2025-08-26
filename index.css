@@ -19,3 +19,9 @@ p {
 div {
     border: 1px solid black;
 }
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
