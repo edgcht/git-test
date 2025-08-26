@@ -7,4 +7,6 @@ function stickynavbar() {
         navbar.classList.remove("sticky");
     }
     }
-    
+
+
+window.onscroll = function() {stickynavbar()};
