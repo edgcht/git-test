@@ -13,3 +13,5 @@ var payment = {
     }
   }
 };
+
+module.exports = payment;
